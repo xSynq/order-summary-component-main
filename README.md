@@ -30,7 +30,7 @@ Mobile:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+[Solution URL](https://xsynq.github.io/order-summary-component-main/
 
 ## My process
 
